@@ -1,0 +1,35 @@
+{
+  "job": "FullStack Developer",
+  "jo":"Embedded Developer",
+  "name": "Arjun Dubey",
+  "desc": "Skills ",
+  "aboutDesc": "I am a motivated individual with a passion for technology and a commitment to continuous learning. Currently developing my coding skills in python, nextjs, C# . I have a strong desire to leverage these abilities in a practical setting.In addition to my technical skills, I am adaptable and resilient, thriving in challenging environments. I am eager to contribute to a team and help solve problems through innovative solutions. My dedication to personal and professional growth drives me to stay current with industry trends and best practices.I’m looking for opportunities where I can apply my skills, learn from experienced professionals, and make a meaningful impact",
+  "email": "arjunexisted@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://www.linkedin.com/in/arjun-kumar-dubey-a77625270/",
+  "projects": [
+    {
+      
+      "project-name": "Group Messenger",
+      "project-desc": "React + Firebase"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com/moderneraxarjun?t=XEC7mJ5T5aZzrO7JkunOdg&s=09"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/arjuncodr/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/cyroscorp"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/arjun-kumar-dubey-1b528a327/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+  ]
+}
